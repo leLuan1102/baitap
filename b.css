@@ -1,0 +1,120 @@
+
+
+.image.round img {
+   
+        border-radius: 50%;
+        text-align: left;
+        width: 200px;
+        height: 200px;
+        left: 70px;
+        top: 80px;
+        position: relative;
+        border: solid;
+        border-color: mediumaquamarine;
+        border-width: 10px;
+        z-index: 2;
+    }
+
+    .image.round2 img {
+   
+        border-radius: 50%;
+        text-align: left;
+        width: 200px;
+        height: 200px;
+        left: 70px;
+        top: 80px;
+        position: relative;
+        border: solid;
+      
+        border-color: rgb(36, 26, 165);
+        border-width: 10px;
+        z-index: 2;
+    }
+    .image.round3 img {
+   
+        border-radius: 50%;
+        text-align: left;
+        width: 200px;
+        height: 200px;
+        left: 70px;
+        top: 80px;
+        position: relative;
+        border: solid;
+        border-color: rgb(172, 197, 61);
+        border-width: 10px;
+        z-index: 2;
+    }
+
+
+
+
+
+#anhnen {
+    padding: 5em 0 100em 25;
+    background-image: url('http://4.bp.blogspot.com/-RKN-UrqFgB8/Ua1QukSorMI/AAAAAAAABR0/ctt7cYEebFU/s1600/blogsinhvien.info-Facebook-Timeline-20.jpg');
+    background-size: cover;
+    
+   
+}
+
+
+.thietlap p {
+    margin: 80px 150px 0px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    line-height: 40px;
+}
+ 
+
+
+
+.内容 {
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 15px;
+    width: 2000px;
+    height: 700px;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+}
+
+.内容 {
+    margin: 30px 20px 10px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    line-height: 50px;
+}
+
+.情報 {
+    display: none;
+}
+
+.興味 {
+    display: none;
+}
+
+.専門 {
+    display: none;
+}
+
+.目標 {
+    display: none;
+}
+
+
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    padding: 12px 80px;
+    background-color: #b6b449;
+    box-shadow: 0px 5px #279C56;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 12px;
+  }
+  
+  .btn:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+  }
